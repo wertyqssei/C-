@@ -1,3 +1,4 @@
+//19 приклад
 #include <iostream>
 #include <cmath>
 #include <iomanip>
@@ -22,4 +23,5 @@ int main() {
     std::cout << "y = " << y << "\n";
 
     return 0;
+
 }
